@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>17-0W7N-17TSEJM</Machine>
+    <WindowsUser>17tsejm1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>NowKPop</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9AEEE20ED8310263A0FA86759ACB41E6C37F56BA3C38CE81EA11415C56BDCFB4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>NowKPop_1.0.0.0_neutral__0f14xjdnxbrm2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>NowKPop_0f14xjdnxbrm2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>NowKPop</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jordan Tse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T23:46:05.879</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\MessengerForWindows.exe">
+      <PackagePath>MessengerForWindows.exe</PackagePath>
+      <Modified>2015-09-24T23:48:39.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:28:44.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:30:00.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:31:48.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:32:48.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-16T07:03:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:33:39.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\MessengerForWindows.xr.xml">
+      <PackagePath>MessengerForWindows.xr.xml</PackagePath>
+      <Modified>2015-09-24T23:43:58.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-24T23:46:05.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-24T23:46:05.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop\MessengerForWindows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-24T23:46:05.789</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

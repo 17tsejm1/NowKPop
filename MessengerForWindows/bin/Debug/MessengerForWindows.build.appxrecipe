@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINBOOK</Machine>
+    <WindowsUser>elmer</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9b1d1467-8d87-4850-88ae-b350669dbdd4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\MessengerForWindows.exe">
+      <PackagePath>MessengerForWindows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\MessengerForWindows.xr.xml">
+      <PackagePath>MessengerForWindows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Content\Code\Projects\MessengerForWindows %28Public%29\MessengerForWindows\MessengerForWindows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

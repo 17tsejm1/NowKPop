@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="MessengerForWindows.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MessengerForWindows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	RequestedTheme="Light"
+    mc:Ignorable="d">
+	<Page.TopAppBar>
+		<AppBar x:Name="appBar" Background="#0083ff">
+			<StackPanel Orientation="Horizontal">
+				<AppBarButton x:ConnectionId='1' Foreground="White" Icon="Message" Label="Home" x:Name="homeButton"                           />
+				<AppBarButton x:ConnectionId='2' Foreground="White" BorderBrush="White" Icon="OtherUser" Label="Login" x:Name="loginButton"                            />
+			</StackPanel>
+		</AppBar>
+	</Page.TopAppBar>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<WebView x:Name="messengerWeb" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></WebView>
+    </Grid>
+</Page>
+
