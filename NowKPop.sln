@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NowKPop", "MessengerForWindows\NowKPop.csproj", "{7C964395-BB1E-46AA-B3F9-ADA4A4458C1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NowKPop", "NowKPop\NowKPop.csproj", "{7C964395-BB1E-46AA-B3F9-ADA4A4458C1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

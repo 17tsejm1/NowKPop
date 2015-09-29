@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>17-0W7N-17TSEJM</Machine>
+    <WindowsUser>17tsejm1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>NowKPop</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>37AFA4BE4B10F0C064E88630D84A80B88B6B75C132AFD90A5E33EFAB804751A6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>NowKPop_1.0.0.0_neutral__0f14xjdnxbrm2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>NowKPop_0f14xjdnxbrm2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>NowKPop</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jordan Tse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-29T03:27:15.964</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\NowKPop.exe">
+      <PackagePath>NowKPop.exe</PackagePath>
+      <Modified>2015-09-29T09:42:42.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:28:44.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:30:00.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:31:48.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:32:48.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-16T07:03:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-24T13:33:39.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\NowKPop.xr.xml">
+      <PackagePath>NowKPop.xr.xml</PackagePath>
+      <Modified>2015-09-29T09:37:18.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-29T03:26:13.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-29T09:42:42.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\17tsejm1.STC\Desktop\NowKPop - Master\NowKPop\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-29T03:27:15.934</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
